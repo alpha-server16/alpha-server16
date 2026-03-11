@@ -11,7 +11,7 @@
 ### 🎨 3D Avatar Effect
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&background=000000&color=00ff00&shadowColor=00ff00&shadowBlur=10&width=1000&height=500" alt="3D Avatar" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=alpha-server16&background=000000&color=00ff00&shadowColor=00ff00&shadowBlur=10&width=1000&height=500" alt="3D Avatar" />
 </div>
 
 
