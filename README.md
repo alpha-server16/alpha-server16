@@ -8,11 +8,12 @@
 
 </div>
 
+### 🎨 3D Avatar Effect
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&background=000000&color=00ff00&shadowColor=00ff00&shadowBlur=10&width=1000&height=500" alt="3D Avatar" />
 </div>
+
 
 ---
 
