@@ -8,12 +8,12 @@
 
 </div>
 
-### 🎨 3D Avatar Effect
+### 👤 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alpha-server16/alpha-server16/gh-pages/github-contribution-grid-snake.svg" alt="3d-avatar" />
+  <!-- Replace the URL below with your actual profile picture -->
+  <img src="https://github.com/alpha-server16.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 </div>
-
 
 ---
 
@@ -34,8 +34,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- Fixed Username: Was alpha0server16, now alpha-server16 -->
   <img src="https://github-readme-stats.vercel.app/api?username=alpha-server16&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha0server16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-server16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -43,6 +44,7 @@
 ### 🐍 My Contribution Snake
 
 <div align="center">
+  <!-- This image will only appear AFTER you set up the GitHub Action (see instructions below) -->
   <img src="https://raw.githubusercontent.com/alpha-server16/alpha-server16/gh-pages/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
