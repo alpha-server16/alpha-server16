@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Server V
+# 👋 Hi there, I'm Server-Dedsec
 
 ### 💻 Back-End Developer | 🎨 Back-End/Business Logic Enthusiast | 🚀 Tech Explorer
 
